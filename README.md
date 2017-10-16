@@ -1,4 +1,4 @@
-This is a example of how to gracefully kill a c++ process.
+This is an example of how to gracefully kill a c++ process.
 
 
 1. SIGINT：
